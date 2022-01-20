@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../Abolfazl_Jafari_M Website\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../../:\xampp\htdocs\Abolfazl_Jafari_M Website\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
